@@ -13,3 +13,5 @@
 ・公式ドキュメントわかりやすくはないが、ある程度理解できるようになった。
 ・Firebaseには機械学習もあるようなので、今後練習したい。
 ・ネット情報は本当にありがたい。。
+
+https://masatoshisondoda.github.io/firebase/
